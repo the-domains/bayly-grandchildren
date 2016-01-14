@@ -1,0 +1,28 @@
+name: Bayly Grandchildren
+favicon: null
+layout_spectrum: 0.3597836827393621
+typography_spectrum: 0.2991305934265256
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.8842935464344919
+  lightness: 0.7621205784380436
+  saturation: 0.38269239640794694
+  rhythmicContrast: 0.11471801134757698
+purpose: []

@@ -1,29 +1,18 @@
-name: Bayly Grandchildren
-favicon: null
-layout_spectrum: 0.3597836827393621
-typography_spectrum: 0.2991305934265256
-title: All worldbeaters...
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+analytics: {}
 color:
   brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
-  brandStrength: 1
-  lightness: 0.7621205784380436
-  saturation: 0.25
+    - '#B0B8B8'
+    - '#900818'
+    - '#905050'
+    - '#B81030'
+    - '#000000'
+  brandStrength: 0.644737
+  lightness: 0.508224
   rhythmicContrast: 0.5
+  saturation: 0.60773
+cta: {}
+layout_spectrum: 0.919408
+name: Bayly Grandchildren
+opengraph: {}
 purpose: []
+typography_spectrum: 0.476151
